@@ -645,6 +645,9 @@ window-width=100
 [org/guake/keybindings/global]
 show-hide='<Super>space'
 
+[org/guake/keybindings/local]
+split-tab-vertical='<Super>equal'
+
 [org/guake/style/background]
 transparency=90
 
