@@ -13,9 +13,9 @@ persist-window-geometry=(2342, 710, 1082, 669)
 recording-output-format='mp4'
 
 [org/gnome/Extensions]
-window-height=1416
+window-height=702
 window-maximized=false
-window-width=833
+window-width=1114
 
 [org/gnome/Lollypop]
 artist-artwork=false
@@ -592,7 +592,7 @@ window-size=(1566, 1392)
 
 [org/gtk/settings/color-chooser]
 custom-colors=[(0.039777777777777773, 0.45603815937149267, 0.59666666666666668, 1.0), (0.98431372549019602, 0.72156862745098038, 0.42352941176470588, 1.0)]
-selected-color=(true, 1.0, 1.0, 1.0, 1.0)
+selected-color=(true, 0.0, 0.0, 0.0, 1.0)
 
 [org/gtk/settings/file-chooser]
 date-format='regular'
@@ -636,7 +636,7 @@ use-popup=false
 use-scrollbar=true
 use-trayicon=false
 window-halignment=0
-window-height=50
+window-height=40
 window-losefocus=false
 window-refocus=false
 window-tabbar=true
@@ -653,5 +653,5 @@ transparency=90
 
 [org/guake/style/font]
 allow-bold=true
-palette='#000000000000:#cccc00000000:#4e4e9a9a0606:#c4c4a0a00000:#34346565a4a4:#757550507b7b:#060698209a9a:#d3d3d7d7cfcf:#555557575353:#efef29292929:#8a8ae2e23434:#fcfce9e94f4f:#72729f9fcfcf:#adad7f7fa8a8:#3434e2e2e2e2:#eeeeeeeeecec:#ffffffffffff:#000000000000'
-palette-name='Tango'
+palette='#070736364141:#EBEB60606B6B:#C3C3E8E88D8D:#F7F7EBEB9595:#8080CBCBC3C3:#FFFF24249090:#AEAEDDDDFFFF:#FFFFFFFFFFFF:#00002B2B3636:#EBEB60606B6B:#C3C3E8E88D8D:#F7F7EBEB9595:#7D7DC6C6BFBF:#6C6C7171C3C3:#343443434D4D:#FFFFFFFFFFFF:#C3C3C7C7D1D1:#1E1E28282C2C'
+palette-name='Material'
