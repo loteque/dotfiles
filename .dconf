@@ -17,6 +17,12 @@ window-height=702
 window-maximized=false
 window-width=1114
 
+[org/gnome/Geary]
+migrated-config=true
+window-height=1416
+window-maximize=false
+window-width=3368
+
 [org/gnome/Lollypop]
 artist-artwork=false
 music-uris=['file:///home/drusr/Music/royalty-free']
@@ -474,7 +480,9 @@ window-preview-title-position='TOP'
 
 [org/gnome/shell/extensions/forge]
 css-last-update=uint32 37
+focus-border-toggle=true
 move-pointer-focus-enabled=false
+tiling-mode-enabled=false
 window-gap-hidden-on-single=false
 window-gap-size=uint32 6
 window-gap-size-increment=uint32 1
@@ -605,7 +613,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(1193, 370)
+window-position=(1935, 12)
 window-size=(1102, 653)
 
 [org/guake/general]
