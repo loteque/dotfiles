@@ -56,7 +56,7 @@ word-size=64
 [org/gnome/calendar]
 active-view='month'
 window-maximized=false
-window-size=(1684, 1416)
+window-size=(1247, 1416)
 
 [org/gnome/control-center]
 last-panel='keyboard'
@@ -281,7 +281,7 @@ window-ratio=(0.43541666666666667, 1.3111111111111111)
 migrated=true
 
 [org/gnome/evolution-data-server/calendar]
-reminders-past=['4a30b5ae58c780d73fcebabc319b628b8afc987e\nfff6fdff40f3adcf1499c7ed14e9b465b5291f9b\t20240529T090000\n1716997800\n1716998400\n1716998700\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240529T090000\r\nDTEND;TZID=America/Los_Angeles:20240529T090500\r\nDTSTAMP:20240528T233209Z\r\nORGANIZER;CN=loteque@pxlpush.com:mailto:loteque@pxlpush.com\r\nUID:0vfkd6q8inbs333jihn102ult5@google.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;\r\n CN=loteque@pxlpush.com;X-NUM-GUESTS=0:mailto:loteque@pxlpush.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;\r\n CN=jonathandavidlewis@gmail.com;X-NUM-GUESTS=0:mailto:\r\n jonathandavidlewis@gmail.com\r\nX-GOOGLE-CONFERENCE:https://meet.google.com/fip-svhm-twu\r\nCREATED:20240528T233209Z\r\nDESCRIPTION:What did you do yesterday? Where are you at today? Where \r\n would you like to be tomorrow? Do you have anything blocking you?\\n\\n-::~:\r\n ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:\r\n ~::~:~::-\\nJoin with Google Meet: https:\r\n //meet.google.com/fip-svhm-twu\\nOr dial: (US) +1 414-909-5279 PIN: \r\n 371264265#\\nMore phone numbers: https:\r\n //tel.meet/fip-svhm-twu?pin=6733989335053&hs=7\\n\\nLearn more about Meet \r\n at: https://support.google.com/a/users/answer/9282720\\n\\nPlease do not \r\n edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:\r\n ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\r\nLAST-MODIFIED:20240528T233209Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Quick checkin\\, 2-2.5 min each.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852622329\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:fff6fdff40f3adcf1499c7ed14e9b465b5291f9b\r\nEND:VALARM\r\nEND:VEVENT\r\n', '4a30b5ae58c780d73fcebabc319b628b8afc987e\n0ed9b5697d7b89ff53d60d108cfb35f260603177\t20240528T090000\n1716911400\n1716912000\n1716912300\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240528T090000\r\nDTEND;TZID=America/Los_Angeles:20240528T090500\r\nDTSTAMP:20240526T152848Z\r\nORGANIZER;CN=loteque@pxlpush.com:mailto:loteque@pxlpush.com\r\nUID:\r\n ccr34d1l64q3ebb2ccp3eb9k74sjgbb165i3ibb4c5hjge1jckqjee9m6s@google.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;\r\n CN=loteque@pxlpush.com;X-NUM-GUESTS=0:mailto:loteque@pxlpush.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=JDL;\r\n X-NUM-GUESTS=0:mailto:jonathandavidlewis@gmail.com\r\nCREATED:20240524T182854Z\r\nDESCRIPTION:What did you do yesterday? Where are you at today? Where \r\n would you like to be tomorrow? Do you have anything blocking you?\r\nLAST-MODIFIED:20240526T152848Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:2\r\nSTATUS:CONFIRMED\r\nSUMMARY:Quick checkin\\, 2-2.5 min each.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852420528\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:0ed9b5697d7b89ff53d60d108cfb35f260603177\r\nEND:VALARM\r\nEND:VEVENT\r\n']
+reminders-past=['4a30b5ae58c780d73fcebabc319b628b8afc987e\nfff6fdff40f3adcf1499c7ed14e9b465b5291f9b\t20240529T090000\n1716997800\n1716998400\n1716998700\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240529T090000\r\nDTEND;TZID=America/Los_Angeles:20240529T090500\r\nDTSTAMP:20240528T233209Z\r\nORGANIZER;CN=loteque@pxlpush.com:mailto:loteque@pxlpush.com\r\nUID:0vfkd6q8inbs333jihn102ult5@google.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;\r\n CN=loteque@pxlpush.com;X-NUM-GUESTS=0:mailto:loteque@pxlpush.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;\r\n CN=jonathandavidlewis@gmail.com;X-NUM-GUESTS=0:mailto:\r\n jonathandavidlewis@gmail.com\r\nX-GOOGLE-CONFERENCE:https://meet.google.com/fip-svhm-twu\r\nCREATED:20240528T233209Z\r\nDESCRIPTION:What did you do yesterday? Where are you at today? Where \r\n would you like to be tomorrow? Do you have anything blocking you?\\n\\n-::~:\r\n ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:\r\n ~::~:~::-\\nJoin with Google Meet: https:\r\n //meet.google.com/fip-svhm-twu\\nOr dial: (US) +1 414-909-5279 PIN: \r\n 371264265#\\nMore phone numbers: https:\r\n //tel.meet/fip-svhm-twu?pin=6733989335053&hs=7\\n\\nLearn more about Meet \r\n at: https://support.google.com/a/users/answer/9282720\\n\\nPlease do not \r\n edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:\r\n ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\r\nLAST-MODIFIED:20240528T233209Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Quick checkin\\, 2-2.5 min each.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852622329\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:fff6fdff40f3adcf1499c7ed14e9b465b5291f9b\r\nEND:VALARM\r\nEND:VEVENT\r\n']
 
 [org/gnome/evolution]
 default-calendar='4a30b5ae58c780d73fcebabc319b628b8afc987e'
@@ -419,7 +419,7 @@ sleep-inactive-ac-type='suspend'
 
 [org/gnome/shell]
 app-picker-layout=[{'accessories': <{'position': <0>}>, 'org.gnome.Cheese.desktop': <{'position': <1>}>, 'simple-scan.desktop': <{'position': <2>}>, 'games': <{'position': <3>}>, 'me.dusansimic.DynamicWallpaper.desktop': <{'position': <4>}>, 'org.gnome.Geary.desktop': <{'position': <5>}>, 'org.gnome.Totem.desktop': <{'position': <6>}>, 'office': <{'position': <7>}>, 'com.github.GradienceTeam.Gradience.desktop': <{'position': <8>}>, 'system-tools': <{'position': <9>}>, 'org.gnome.gThumb.desktop': <{'position': <10>}>, 'gnome-layouts.desktop': <{'position': <11>}>, 'org.gnome.Maps.desktop': <{'position': <12>}>, 'webapp-manager.desktop': <{'position': <13>}>, 'discord.desktop': <{'position': <14>}>, 'discord-canary.desktop': <{'position': <15>}>, 'com.uploadedlobster.peek.desktop': <{'position': <16>}>, 'org.rncbc.qpwgraph.desktop': <{'position': <17>}>, 'org.manjaro.pamac.manager.desktop': <{'position': <18>}>, 'cmake-gui.desktop': <{'position': <19>}>, 'electron25.desktop': <{'position': <20>}>, 'org.gnome.Nautilus.desktop': <{'position': <21>}>}, {'assistant.desktop': <{'position': <0>}>, 'designer.desktop': <{'position': <1>}>, 'linguist.desktop': <{'position': <2>}>, 'qdbusviewer.desktop': <{'position': <3>}>, 'com.obsproject.Studio.desktop': <{'position': <4>}>, 'electron28.desktop': <{'position': <5>}>, 'ardour8.desktop': <{'position': <6>}>, 'blender.desktop': <{'position': <7>}>, 'firefoxdeveloperedition.desktop': <{'position': <8>}>, 'io.github.jliljebl.Flowblade.desktop': <{'position': <9>}>, 'org.openshot.OpenShot.desktop': <{'position': <10>}>, 'signal-desktop.desktop': <{'position': <11>}>, 'vlc.desktop': <{'position': <12>}>, 'com.discordapp.Discord.desktop': <{'position': <13>}>, 'godot.desktop': <{'position': <14>}>, 'pinta.desktop': <{'position': <15>}>, 'electron30.desktop': <{'position': <16>}>, 'electron29.desktop': <{'position': <17>}>}]
-command-history=["global.set_persistent_state('material-shell-state',new GLib.Variant('s', '{}'));", 'r']
+command-history=["global.set_persistent_state('material-shell-state',new GLib.Variant('s', '{}'));", 'r', 'sudo restart -n', 'restart --now', 'restart']
 disable-extension-version-validation=true
 disable-user-extensions=false
 disabled-extensions=['ds4battery@slie.ru', 'custom-accent-colors@demiskp', 'legacyschemeautoswitcher@joshimukul29.gmail.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'x11gestures@joseexposito.github.io', 'dash-to-dock@micxgx.gmail.com', 'material-shell@papyelgringo', 'pop-shell@system76.com', 'gTile@vibou']
@@ -482,7 +482,7 @@ window-preview-title-position='TOP'
 css-last-update=uint32 37
 focus-border-toggle=true
 move-pointer-focus-enabled=false
-tiling-mode-enabled=false
+tiling-mode-enabled=true
 window-gap-hidden-on-single=false
 window-gap-size=uint32 6
 window-gap-size-increment=uint32 1
@@ -613,7 +613,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(1935, 12)
+window-position=(60, 0)
 window-size=(1102, 653)
 
 [org/guake/general]
