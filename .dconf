@@ -8,8 +8,8 @@ window-width=845
 
 [com/uploadedlobster/peek]
 interface-prefer-dark-theme=true
-persist-save-folder='/home/drusr/Videos/res_collection_lib'
-persist-window-geometry=(2342, 710, 1082, 669)
+persist-save-folder='/home/drusr/Videos/goblin_game'
+persist-window-geometry=(2593, 454, 837, 476)
 recording-output-format='mp4'
 
 [org/gnome/Extensions]
@@ -56,7 +56,7 @@ word-size=64
 [org/gnome/calendar]
 active-view='month'
 window-maximized=false
-window-size=(1247, 1416)
+window-size=(1678, 1416)
 
 [org/gnome/control-center]
 last-panel='keyboard'
@@ -66,9 +66,9 @@ window-state=(1678, 702, false)
 backend='google'
 delete-after=0
 include-list=@as []
-last-backup='2024-06-02T01:30:20.431709Z'
-last-run='2024-06-02T01:29:57.271194Z'
-nag-check='2024-04-06T00:38:11.542124Z'
+last-backup='2024-06-06T20:43:02.549969Z'
+last-run='2024-06-06T20:42:50.409775Z'
+nag-check='2024-06-06T20:43:19.334054Z'
 periodic=true
 periodic-period=7
 prompt-check='disabled'
@@ -126,7 +126,7 @@ text-scaling-factor=1.0
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions']
+application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey']
 
 [org/gnome/desktop/notifications/application/blender]
 application-id='blender.desktop'
@@ -206,6 +206,9 @@ application-id='org.manjaro.pamac.manager.desktop'
 [org/gnome/desktop/notifications/application/org-rncbc-qpwgraph]
 application-id='org.rncbc.qpwgraph.desktop'
 
+[org/gnome/desktop/notifications/application/screenkey]
+application-id='screenkey.desktop'
+
 [org/gnome/desktop/notifications/application/steam]
 application-id='steam.desktop'
 
@@ -275,13 +278,13 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=132
 sizing-mode='automatic'
-window-ratio=(0.43541666666666667, 1.3111111111111111)
+window-ratio=(1.3611111111111112, 1.7878787878787878)
 
 [org/gnome/evolution-data-server]
 migrated=true
 
 [org/gnome/evolution-data-server/calendar]
-reminders-past=['4a30b5ae58c780d73fcebabc319b628b8afc987e\nfff6fdff40f3adcf1499c7ed14e9b465b5291f9b\t20240529T090000\n1716997800\n1716998400\n1716998700\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240529T090000\r\nDTEND;TZID=America/Los_Angeles:20240529T090500\r\nDTSTAMP:20240528T233209Z\r\nORGANIZER;CN=loteque@pxlpush.com:mailto:loteque@pxlpush.com\r\nUID:0vfkd6q8inbs333jihn102ult5@google.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;\r\n CN=loteque@pxlpush.com;X-NUM-GUESTS=0:mailto:loteque@pxlpush.com\r\nATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;\r\n CN=jonathandavidlewis@gmail.com;X-NUM-GUESTS=0:mailto:\r\n jonathandavidlewis@gmail.com\r\nX-GOOGLE-CONFERENCE:https://meet.google.com/fip-svhm-twu\r\nCREATED:20240528T233209Z\r\nDESCRIPTION:What did you do yesterday? Where are you at today? Where \r\n would you like to be tomorrow? Do you have anything blocking you?\\n\\n-::~:\r\n ~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:\r\n ~::~:~::-\\nJoin with Google Meet: https:\r\n //meet.google.com/fip-svhm-twu\\nOr dial: (US) +1 414-909-5279 PIN: \r\n 371264265#\\nMore phone numbers: https:\r\n //tel.meet/fip-svhm-twu?pin=6733989335053&hs=7\\n\\nLearn more about Meet \r\n at: https://support.google.com/a/users/answer/9282720\\n\\nPlease do not \r\n edit this section.\\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:\r\n ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\r\nLAST-MODIFIED:20240528T233209Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Quick checkin\\, 2-2.5 min each.\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852622329\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:fff6fdff40f3adcf1499c7ed14e9b465b5291f9b\r\nEND:VALARM\r\nEND:VEVENT\r\n']
+reminders-past=['4a30b5ae58c780d73fcebabc319b628b8afc987e\nbdf1f6f794d756d1394eb2cbc19eb3010a157173\t20240608T190000\n1717897800\n1717898400\n1717909200\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240608T190000\r\nDTEND;TZID=America/Los_Angeles:20240608T220000\r\nDTSTAMP:20240528T041812Z\r\nUID:5kndlguhtn07s61fmpe56m502v@google.com\r\nCREATED:20240528T041812Z\r\nDESCRIPTION:Join community friends and hear June’s Creative Theme \r\n reveal for the "Resource Management" Summer Slow Jam!\\n\\nIt’s time to \r\n get resourceful for the first SSJ of the year! \\n- Chat with others about \r\n forming teams - PIGSquad organizers can help introduce you after the \r\n opening if needed\\n- Hear the Creative Theme and start brainstorming game \r\n ideas\\n- Learn about processes that can help you make a resource \r\n management game\\n- Start making a game on June 8th\\, then finish it and \r\n share on the 28th!\\n\\nSIGN UP FOR THE JAM at https:\r\n //itch.io/jam/ssjresourcemanagement\\n\\nWe will also be hosting a stream \r\n for the Kickoff on http://twitch.tv/pigsquad\\n\\nLearn more about Summer \r\n Slow Jams at http://pigsquad.com/summerslowjams\\n\\nWearing a mask at all \r\n times (except eating and drinking) is required to attend the physical \r\n portion of this event.\r\nLAST-MODIFIED:20240528T041812Z\r\nLOCATION:Wacom Experience Center 1455 NW Irving St. Portland & at \r\n twitch.tv/pigsquad\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Summer Slow Jams: "Resource Management" Opening Event\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852553092\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:bdf1f6f794d756d1394eb2cbc19eb3010a157173\r\nEND:VALARM\r\nEND:VEVENT\r\n']
 
 [org/gnome/evolution]
 default-calendar='4a30b5ae58c780d73fcebabc319b628b8afc987e'
@@ -334,8 +337,8 @@ sidebar-sections=['GthFileProperties:expanded', 'GthFileComment:expanded', 'GthF
 sidebar-visible=true
 sort-inverse=false
 sort-type='file::mtime'
-startup-current-file=''
-startup-location='file:///home/drusr/Pictures/Screenshots'
+startup-current-file='file:///home/drusr/Source/goblin-game/addons/inputgroxler/icon.png'
+startup-location='file:///home/drusr/Source/goblin-game/addons/inputgroxler'
 statusbar-visible=true
 thumbnail-list-visible=false
 viewer-sidebar='hidden'
@@ -375,11 +378,11 @@ search-view='list-view'
 show-hidden-files=true
 
 [org/gnome/nautilus/window-state]
-initial-size=(596, 1416)
+initial-size=(833, 1416)
 maximized=false
 
 [org/gnome/portal/filechooser/com.discordapp.Discord]
-last-folder-path='/home/drusr/Pictures/favicon_package_v0.16'
+last-folder-path='/home/drusr/Videos/goblin_game'
 
 [org/gnome/portal/filechooser/gnome-background-panel]
 last-folder-path='/home/drusr/Pictures'
@@ -424,7 +427,7 @@ disable-extension-version-validation=true
 disable-user-extensions=false
 disabled-extensions=['ds4battery@slie.ru', 'custom-accent-colors@demiskp', 'legacyschemeautoswitcher@joshimukul29.gmail.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'x11gestures@joseexposito.github.io', 'dash-to-dock@micxgx.gmail.com', 'material-shell@papyelgringo', 'pop-shell@system76.com', 'gTile@vibou']
 enabled-extensions=['appindicatorsupport@rgcjonas.gmail.com', 'gnome-ui-tune@itstime.tech', 'pamac-updates@manjaro.org', 'dash-to-panel@jderose9.github.com', 'gamemode@christian.kellner.me', 'forge@jmmaranan.com', 'unite@hardpixel.eu']
-favorite-apps=@as []
+favorite-apps=['com.discordapp.Discord.desktop']
 welcome-dialog-last-shown-version='99.9'
 
 [org/gnome/shell/extensions/appindicator]
@@ -486,6 +489,7 @@ tiling-mode-enabled=true
 window-gap-hidden-on-single=false
 window-gap-size=uint32 6
 window-gap-size-increment=uint32 1
+workspace-skip-tile='1'
 
 [org/gnome/shell/extensions/forge/keybindings]
 con-split-horizontal=['<Super>z']
@@ -599,8 +603,8 @@ view-type='list'
 window-size=(1566, 1392)
 
 [org/gtk/settings/color-chooser]
-custom-colors=[(0.039777777777777773, 0.45603815937149267, 0.59666666666666668, 1.0), (0.98431372549019602, 0.72156862745098038, 0.42352941176470588, 1.0)]
-selected-color=(true, 0.0, 0.0, 0.0, 1.0)
+custom-colors=[(0.18240000000000003, 0.32000000000000001, 0.19516701030927841, 0.89898989898989901), (0.55686274509803924, 0.93725490196078431, 0.59215686274509804, 1.0), (0.039777777777777773, 0.45603815937149267, 0.59666666666666668, 1.0), (0.98431372549019602, 0.72156862745098038, 0.42352941176470588, 1.0)]
+selected-color=(true, 0.18240000000000003, 0.32000000000000001, 0.19516701030927841, 0.89898989898989901)
 
 [org/gtk/settings/file-chooser]
 date-format='regular'
@@ -613,7 +617,7 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(60, 0)
+window-position=(1193, 373)
 window-size=(1102, 653)
 
 [org/guake/general]
@@ -663,3 +667,4 @@ transparency=90
 allow-bold=true
 palette='#070736364141:#EBEB60606B6B:#C3C3E8E88D8D:#F7F7EBEB9595:#8080CBCBC3C3:#FFFF24249090:#AEAEDDDDFFFF:#FFFFFFFFFFFF:#00002B2B3636:#EBEB60606B6B:#C3C3E8E88D8D:#F7F7EBEB9595:#7D7DC6C6BFBF:#6C6C7171C3C3:#343443434D4D:#FFFFFFFFFFFF:#C3C3C7C7D1D1:#1E1E28282C2C'
 palette-name='Material'
+style='Monospace 13'
