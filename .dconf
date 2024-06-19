@@ -9,7 +9,7 @@ window-width=845
 [com/uploadedlobster/peek]
 interface-prefer-dark-theme=true
 persist-save-folder='/home/drusr/Videos/goblin_game'
-persist-window-geometry=(2593, 454, 837, 476)
+persist-window-geometry=(493, 0, 2504, 1393)
 recording-output-format='mp4'
 
 [org/gnome/Extensions]
@@ -21,7 +21,7 @@ window-width=1114
 migrated-config=true
 window-height=1416
 window-maximize=false
-window-width=3368
+window-width=833
 
 [org/gnome/Lollypop]
 artist-artwork=false
@@ -66,8 +66,8 @@ window-state=(1678, 702, false)
 backend='google'
 delete-after=0
 include-list=@as []
-last-backup='2024-06-06T20:43:02.549969Z'
-last-run='2024-06-06T20:42:50.409775Z'
+last-backup='2024-06-13T21:10:46.764483Z'
+last-run='2024-06-13T21:10:30.419609Z'
 nag-check='2024-06-06T20:43:19.334054Z'
 periodic=true
 periodic-period=7
@@ -126,7 +126,7 @@ text-scaling-factor=1.0
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey']
+application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions']
 
 [org/gnome/desktop/notifications/application/blender]
 application-id='blender.desktop'
@@ -176,8 +176,14 @@ application-id='org.gnome.DejaDup.desktop'
 [org/gnome/desktop/notifications/application/org-gnome-evolution-alarm-notify]
 application-id='org.gnome.Evolution-alarm-notify.desktop'
 
+[org/gnome/desktop/notifications/application/org-gnome-extensions]
+application-id='org.gnome.Extensions.desktop'
+
 [org/gnome/desktop/notifications/application/org-gnome-fileroller]
 application-id='org.gnome.FileRoller.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-geary]
+application-id='org.gnome.Geary.desktop'
 
 [org/gnome/desktop/notifications/application/org-gnome-gedit]
 application-id='org.gnome.gedit.desktop'
@@ -331,14 +337,14 @@ folder-tree-sort-inverse=false
 folder-tree-sort-type='name'
 fullscreen-sidebar='hidden'
 fullscreen-thumbnails-visible=false
-maximized=false
+maximized=true
 properties-visible=false
 sidebar-sections=['GthFileProperties:expanded', 'GthFileComment:expanded', 'GthFileDetails:expanded', 'GthImageHistogram:expanded']
 sidebar-visible=true
 sort-inverse=false
 sort-type='file::mtime'
-startup-current-file='file:///home/drusr/Source/goblin-game/addons/inputgroxler/icon.png'
-startup-location='file:///home/drusr/Source/goblin-game/addons/inputgroxler'
+startup-current-file='file:///home/drusr/Pictures/Screenshots/Screenshot%20from%202024-06-12%2011-24-08.png'
+startup-location='file:///home/drusr/Pictures/Screenshots'
 statusbar-visible=true
 thumbnail-list-visible=false
 viewer-sidebar='hidden'
@@ -378,7 +384,7 @@ search-view='list-view'
 show-hidden-files=true
 
 [org/gnome/nautilus/window-state]
-initial-size=(833, 1416)
+initial-size=(3368, 1381)
 maximized=false
 
 [org/gnome/portal/filechooser/com.discordapp.Discord]
@@ -485,11 +491,13 @@ window-preview-title-position='TOP'
 css-last-update=uint32 37
 focus-border-toggle=true
 move-pointer-focus-enabled=false
+stacked-tiling-mode-enabled=false
+tabbed-tiling-mode-enabled=true
 tiling-mode-enabled=true
 window-gap-hidden-on-single=false
 window-gap-size=uint32 6
 window-gap-size-increment=uint32 1
-workspace-skip-tile='1'
+workspace-skip-tile=''
 
 [org/gnome/shell/extensions/forge/keybindings]
 con-split-horizontal=['<Super>z']
@@ -617,13 +625,13 @@ sort-column='name'
 sort-directories-first=true
 sort-order='ascending'
 type-format='category'
-window-position=(1193, 373)
+window-position=(1193, 387)
 window-size=(1102, 653)
 
 [org/guake/general]
 compat-delete='delete-sequence'
-display-n=0
-display-tab-names=0
+display-n=-1
+display-tab-names=1
 gtk-prefer-dark-theme=true
 gtk-theme-name='Adw-dark'
 gtk-use-system-default-theme=true
@@ -631,7 +639,7 @@ hide-tabs-if-one-tab=false
 history-size=1000
 load-guake-yml=true
 max-tab-name-length=100
-mouse-display=true
+mouse-display=false
 open-tab-cwd=true
 prompt-on-close-tab=1
 prompt-on-quit=true
@@ -643,12 +651,13 @@ schema-version='3.11.dev0'
 scroll-keystroke=true
 search-engine=1
 start-at-login=true
+use-audible-bell=true
 use-default-font=true
 use-popup=false
 use-scrollbar=true
 use-trayicon=false
 window-halignment=0
-window-height=40
+window-height=27
 window-losefocus=false
 window-refocus=false
 window-tabbar=true
