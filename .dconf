@@ -60,14 +60,14 @@ window-size=(1678, 1416)
 
 [org/gnome/control-center]
 last-panel='keyboard'
-window-state=(1678, 702, false)
+window-state=(1678, 1416, false)
 
 [org/gnome/deja-dup]
 backend='google'
 delete-after=0
 include-list=@as []
-last-backup='2024-06-20T12:56:14.444820Z'
-last-run='2024-06-20T12:55:58.654699Z'
+last-backup='2024-06-27T19:36:20.497133Z'
+last-run='2024-06-27T19:36:05.742975Z'
 nag-check='2024-06-06T20:43:19.334054Z'
 periodic=true
 periodic-period=7
@@ -304,15 +304,15 @@ skip-newer=false
 
 [org/gnome/file-roller/listing]
 list-mode='as-folder'
-name-column-width=530
+name-column-width=1128
 show-path=false
 sort-method='name'
 sort-type='ascending'
 
 [org/gnome/file-roller/ui]
 sidebar-width=200
-window-height=1369
-window-width=1684
+window-height=1416
+window-width=1678
 
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
@@ -628,7 +628,7 @@ sort-column='modified'
 sort-directories-first=true
 sort-order='descending'
 type-format='category'
-window-position=(1616, 370)
+window-position=(1193, 370)
 window-size=(1102, 653)
 
 [org/guake/general]
