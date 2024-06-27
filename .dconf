@@ -66,8 +66,8 @@ window-state=(1678, 702, false)
 backend='google'
 delete-after=0
 include-list=@as []
-last-backup='2024-06-13T21:10:46.764483Z'
-last-run='2024-06-13T21:10:30.419609Z'
+last-backup='2024-06-20T12:56:14.444820Z'
+last-run='2024-06-20T12:55:58.654699Z'
 nag-check='2024-06-06T20:43:19.334054Z'
 periodic=true
 periodic-period=7
@@ -126,7 +126,7 @@ text-scaling-factor=1.0
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions']
+application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions', 'pinta']
 
 [org/gnome/desktop/notifications/application/blender]
 application-id='blender.desktop'
@@ -212,6 +212,9 @@ application-id='org.manjaro.pamac.manager.desktop'
 [org/gnome/desktop/notifications/application/org-rncbc-qpwgraph]
 application-id='org.rncbc.qpwgraph.desktop'
 
+[org/gnome/desktop/notifications/application/pinta]
+application-id='pinta.desktop'
+
 [org/gnome/desktop/notifications/application/screenkey]
 application-id='screenkey.desktop'
 
@@ -290,7 +293,7 @@ window-ratio=(1.3611111111111112, 1.7878787878787878)
 migrated=true
 
 [org/gnome/evolution-data-server/calendar]
-reminders-past=['4a30b5ae58c780d73fcebabc319b628b8afc987e\nbdf1f6f794d756d1394eb2cbc19eb3010a157173\t20240608T190000\n1717897800\n1717898400\n1717909200\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240608T190000\r\nDTEND;TZID=America/Los_Angeles:20240608T220000\r\nDTSTAMP:20240528T041812Z\r\nUID:5kndlguhtn07s61fmpe56m502v@google.com\r\nCREATED:20240528T041812Z\r\nDESCRIPTION:Join community friends and hear June’s Creative Theme \r\n reveal for the "Resource Management" Summer Slow Jam!\\n\\nIt’s time to \r\n get resourceful for the first SSJ of the year! \\n- Chat with others about \r\n forming teams - PIGSquad organizers can help introduce you after the \r\n opening if needed\\n- Hear the Creative Theme and start brainstorming game \r\n ideas\\n- Learn about processes that can help you make a resource \r\n management game\\n- Start making a game on June 8th\\, then finish it and \r\n share on the 28th!\\n\\nSIGN UP FOR THE JAM at https:\r\n //itch.io/jam/ssjresourcemanagement\\n\\nWe will also be hosting a stream \r\n for the Kickoff on http://twitch.tv/pigsquad\\n\\nLearn more about Summer \r\n Slow Jams at http://pigsquad.com/summerslowjams\\n\\nWearing a mask at all \r\n times (except eating and drinking) is required to attend the physical \r\n portion of this event.\r\nLAST-MODIFIED:20240528T041812Z\r\nLOCATION:Wacom Experience Center 1455 NW Irving St. Portland & at \r\n twitch.tv/pigsquad\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Summer Slow Jams: "Resource Management" Opening Event\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852553092\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:bdf1f6f794d756d1394eb2cbc19eb3010a157173\r\nEND:VALARM\r\nEND:VEVENT\r\n']
+reminders-past=@as []
 
 [org/gnome/evolution]
 default-calendar='4a30b5ae58c780d73fcebabc319b628b8afc987e'
@@ -384,7 +387,7 @@ search-view='list-view'
 show-hidden-files=true
 
 [org/gnome/nautilus/window-state]
-initial-size=(3368, 1381)
+initial-size=(3368, 1416)
 maximized=false
 
 [org/gnome/portal/filechooser/com.discordapp.Discord]
@@ -621,11 +624,11 @@ show-hidden=false
 show-size-column=true
 show-type-column=true
 sidebar-width=245
-sort-column='name'
+sort-column='modified'
 sort-directories-first=true
-sort-order='ascending'
+sort-order='descending'
 type-format='category'
-window-position=(1193, 387)
+window-position=(1616, 370)
 window-size=(1102, 653)
 
 [org/guake/general]
