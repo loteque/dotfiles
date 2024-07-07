@@ -12,10 +12,20 @@ persist-save-folder='/home/drusr/Videos/goblin_game'
 persist-window-geometry=(493, 0, 2504, 1393)
 recording-output-format='mp4'
 
+[de/haeckerfelix/Fragments]
+client-last-connection='00000000-0000-0000-0000-000000000000'
+window-height=1416
+window-width=3368
+
+[dev/geopjr/Collision]
+is-maximized=false
+window-height=1416
+window-width=1678
+
 [org/gnome/Extensions]
-window-height=702
+window-height=1416
 window-maximized=false
-window-width=1114
+window-width=833
 
 [org/gnome/Geary]
 migrated-config=true
@@ -126,7 +136,7 @@ text-scaling-factor=1.0
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions', 'pinta']
+application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions', 'pinta', 'firefox-developer-edition', 'de-haeckerfelix-fragments']
 
 [org/gnome/desktop/notifications/application/blender]
 application-id='blender.desktop'
@@ -143,8 +153,14 @@ application-id='com.discordapp.Discord.desktop'
 [org/gnome/desktop/notifications/application/com-uploadedlobster-peek]
 application-id='com.uploadedlobster.peek.desktop'
 
+[org/gnome/desktop/notifications/application/de-haeckerfelix-fragments]
+application-id='de.haeckerfelix.Fragments.desktop'
+
 [org/gnome/desktop/notifications/application/discord]
 application-id='discord.desktop'
+
+[org/gnome/desktop/notifications/application/firefox-developer-edition]
+application-id='firefox-developer-edition.desktop'
 
 [org/gnome/desktop/notifications/application/firefox]
 application-id='firefox.desktop'
@@ -293,7 +309,7 @@ window-ratio=(1.3611111111111112, 1.7878787878787878)
 migrated=true
 
 [org/gnome/evolution-data-server/calendar]
-reminders-past=["4a30b5ae58c780d73fcebabc319b628b8afc987e\n47bd28e5b53e6196d78a90e55edf13048ce90fba\t20240628T190000\n1719625800\n1719626400\n1719637200\nBEGIN:VEVENT\r\nDTSTART;TZID=America/Los_Angeles:20240628T190000\r\nDTEND;TZID=America/Los_Angeles:20240628T220000\r\nDTSTAMP:20240528T041926Z\r\nUID:2a9v3s5cq434ddnvvqn14k1kbq@google.com\r\nCREATED:20240528T041926Z\r\nDESCRIPTION:Come play games! Come share games! Bring your own headphones \r\n for the best experience :)\\n- Play games to celebrate the recent game jam \r\n challenge!\\n- Bring your Summer Slow Jams “Resource Management\" project \r\n to share for fun and feedback!\\n- Hang out with the community to learn \r\n about everyone's jam experience!\\n- Pizza & drinks available while \r\n supplies last.\\n\\nPeople who made games for the jam are welcome to arrive \r\n up to 15 minutes early to set up their game\\, but it's totally fine to \r\n show up right at 7 or even later to get your project ready for showcase :\r\n D\\nYou should expect about 4’ of tablespace to showcase on. If you have \r\n special requests for equipment or space\\, please reach out via \r\n PIGSquad.com/contact at least 48 hours before the event. We reserve the \r\n right to reject any game based on our Code of Conduct.\\n\\nWearing a mask \r\n at all times (except eating and drinking) is required to attend this \r\n event.\r\nLAST-MODIFIED:20240528T041926Z\r\nLOCATION:Wacom Experience Center 1455 Northwest Irving Street Portland\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Summer Slow Jams: \"Resource Management Games\" In-Person Closing \r\n Showcase\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63852553166\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT10M\r\nX-EVOLUTION-ALARM-UID:47bd28e5b53e6196d78a90e55edf13048ce90fba\r\nEND:VALARM\r\nEND:VEVENT\r\n"]
+reminders-past=@as []
 
 [org/gnome/evolution]
 default-calendar='4a30b5ae58c780d73fcebabc319b628b8afc987e'
@@ -387,7 +403,7 @@ search-view='list-view'
 show-hidden-files=true
 
 [org/gnome/nautilus/window-state]
-initial-size=(1678, 1416)
+initial-size=(3368, 1416)
 maximized=false
 
 [org/gnome/portal/filechooser/com.discordapp.Discord]
@@ -628,7 +644,7 @@ sort-column='modified'
 sort-directories-first=true
 sort-order='descending'
 type-format='category'
-window-position=(2038, 370)
+window-position=(1193, 370)
 window-size=(1102, 653)
 
 [org/guake/general]
