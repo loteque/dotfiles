@@ -69,7 +69,7 @@ window-maximized=false
 window-size=(1678, 1416)
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='system'
 window-state=(1678, 1416, false)
 
 [org/gnome/deja-dup]
@@ -136,7 +136,7 @@ text-scaling-factor=1.0
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions', 'pinta', 'firefox-developer-edition', 'de-haeckerfelix-fragments']
+application-children=['org-manjaro-pamac-manager', 'firefox', 'gnome-power-panel', 'discord', 'ca-desrt-dconf-editor', 'org-gnome-gedit', 'codium', 'org-gnome-nautilus', 'itch', 'steam', 'org-gnome-fileroller', 'godot', 'com-uploadedlobster-peek', 'xdg-desktop-portal-gnome', 'org-gnome-gthumb', 'gnome-network-panel', 'org-gnome-dejadup', 'org-gnome-settings', 'org-gnome-calendar', 'org-gnome-totem', 'org-gnome-evolution-alarm-notify', 'org-rncbc-qpwgraph', 'blender', 'vlc', 'firefoxdeveloperedition', 'com-discordapp-discord', 'zoho-mail-desktop', 'guake', 'org-gnome-tweaks', 'org-gnome-shell-extensions', 'screenkey', 'org-gnome-geary', 'org-gnome-extensions', 'pinta', 'firefox-developer-edition', 'de-haeckerfelix-fragments', 'veracrypt']
 
 [org/gnome/desktop/notifications/application/blender]
 application-id='blender.desktop'
@@ -236,6 +236,9 @@ application-id='screenkey.desktop'
 
 [org/gnome/desktop/notifications/application/steam]
 application-id='steam.desktop'
+
+[org/gnome/desktop/notifications/application/veracrypt]
+application-id='veracrypt.desktop'
 
 [org/gnome/desktop/notifications/application/vlc]
 application-id='vlc.desktop'
@@ -403,7 +406,7 @@ search-view='list-view'
 show-hidden-files=true
 
 [org/gnome/nautilus/window-state]
-initial-size=(3368, 1416)
+initial-size=(1678, 1416)
 maximized=false
 
 [org/gnome/portal/filechooser/com.discordapp.Discord]
@@ -450,7 +453,7 @@ app-picker-layout=[{'accessories': <{'position': <0>}>, 'org.gnome.Cheese.deskto
 command-history=["global.set_persistent_state('material-shell-state',new GLib.Variant('s', '{}'));", 'r', 'sudo restart -n', 'restart --now', 'restart']
 disable-extension-version-validation=true
 disable-user-extensions=false
-disabled-extensions=['ds4battery@slie.ru', 'custom-accent-colors@demiskp', 'legacyschemeautoswitcher@joshimukul29.gmail.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'x11gestures@joseexposito.github.io', 'dash-to-dock@micxgx.gmail.com', 'material-shell@papyelgringo', 'pop-shell@system76.com', 'gTile@vibou']
+disabled-extensions=['ds4battery@slie.ru', 'custom-accent-colors@demiskp', 'legacyschemeautoswitcher@joshimukul29.gmail.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'x11gestures@joseexposito.github.io', 'dash-to-dock@micxgx.gmail.com', 'material-shell@papyelgringo', 'pop-shell@system76.com', 'gTile@vibou', 'searchfirefoxbookmarks@ciancio.net', 'searchbookmarks@bmh1980de.gmail.com']
 enabled-extensions=['appindicatorsupport@rgcjonas.gmail.com', 'gnome-ui-tune@itstime.tech', 'pamac-updates@manjaro.org', 'dash-to-panel@jderose9.github.com', 'gamemode@christian.kellner.me', 'forge@jmmaranan.com', 'unite@hardpixel.eu']
 favorite-apps=['com.discordapp.Discord.desktop']
 welcome-dialog-last-shown-version='99.9'
@@ -563,6 +566,9 @@ workspace-active-tile-toggle=['<Shift><Super>w']
 active-color='rgb(192,97,203)'
 always-show-icon=true
 
+[org/gnome/shell/extensions/gnome-ui-tune]
+hide-search=true
+
 [org/gnome/shell/extensions/gtile]
 auto-close=true
 follow-cursor=true
@@ -644,7 +650,7 @@ sort-column='modified'
 sort-directories-first=true
 sort-order='descending'
 type-format='category'
-window-position=(1193, 370)
+window-position=(1073, 301)
 window-size=(1102, 653)
 
 [org/guake/general]
